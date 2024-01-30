@@ -947,6 +947,11 @@ If it is not included, an error is thrown.
 
 As a result, in version 4.0.0, the following type definitions are invalid:
 
+
+[cols="1,1"]
+|===
+|Before | Now
+a|
 [source, graphql, indent=0]
 ----
 type Person {
